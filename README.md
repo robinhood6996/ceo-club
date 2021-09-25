@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CEO'S CLUB FOR UNLUCKY PEOPLE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

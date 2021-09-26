@@ -5,3 +5,34 @@ h2.cart-header.text-center {
     border-radius: 10px;
     padding: 15px;
 }
+
+h3.donation {
+    background: #534195;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+}
+.donation-ammount{
+    color: gold;
+}
+
+li {
+    list-style: none;
+    background: #d3c7ff;
+    padding: 10px;
+    border-radius: 10px;
+    margin:5px;
+}
+
+li img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+span.name {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
